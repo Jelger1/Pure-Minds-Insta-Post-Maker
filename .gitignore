@@ -1,0 +1,17 @@
+node_modules/
+npm-debug.log*
+.env
+*.env
+
+# Lokale bestanden die niet bij de Post Maker horen
+.history/
+legacy/
+Landingpage-AdsOptimizer/
+SEO-contentGap-Analyzer/
+assets/fonts/
+samples/
+scripts/build-font-index.js
+STYLEGUIDE.md
+Brandbook_Template_PureMinds.pdf
+.env.example
+package-lock.json

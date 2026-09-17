@@ -1,0 +1,12 @@
+# Render Blueprint: Dashboard -> New -> Blueprint -> kies deze repo.
+services:
+  - type: web
+    name: pure-minds-post-maker
+    runtime: node
+    plan: free
+    buildCommand: "true"
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "20"

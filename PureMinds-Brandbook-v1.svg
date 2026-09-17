@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2112" height="10274" viewBox="0 0 2112 10274" font-family="Open Sans">
+<title>Pure Minds - Brandbook v1.0</title>
+<rect x="0" y="0" width="2112" height="10274" fill="#ffffff"/>
+
+<g id="Artboards">
+  <g id="Artboard-01-Cover" transform="translate(96 96)">
+    <rect x="0" y="0" width="1920" height="1358" fill="#303030" stroke="#d5dee5" stroke-width="1"/>
+    <rect x="0" y="0" width="1920" height="14" fill="#1ab9e2"/>
+  </g>
+  <g id="Artboard-02-Merkverhaal" transform="translate(96 1550)">
+    <rect x="0" y="0" width="1920" height="1358" fill="#ffffff" stroke="#d5dee5" stroke-width="1"/>
+    <rect x="0" y="0" width="1920" height="10" fill="#1ab9e2"/>
+  </g>
+  <g id="Artboard-03-Logo" transform="translate(96 3004)">
+    <rect x="0" y="0" width="1920" height="1358" fill="#ffffff" stroke="#d5dee5" stroke-width="1"/>
+    <rect x="0" y="0" width="1920" height="10" fill="#1ab9e2"/>
+  </g>
+  <g id="Artboard-04-Kleurpalet" transform="translate(96 4458)">
+    <rect x="0" y="0" width="1920" height="1358" fill="#ffffff" stroke="#d5dee5" stroke-width="1"/>
+    <rect x="0" y="0" width="1920" height="10" fill="#1ab9e2"/>
+  </g>
+  <g id="Artboard-05-Typografie" transform="translate(96 5912)">
+    <rect x="0" y="0" width="1920" height="1358" fill="#ffffff" stroke="#d5dee5" stroke-width="1"/>
+    <rect x="0" y="0" width="1920" height="10" fill="#1ab9e2"/>
+  </g>
+  <g id="Artboard-06-Beeldtaal" transform="translate(96 7366)">
+    <rect x="0" y="0" width="1920" height="1358" fill="#ffffff" stroke="#d5dee5" stroke-width="1"/>
+    <rect x="0" y="0" width="1920" height="10" fill="#1ab9e2"/>
+  </g>
+  <g id="Artboard-07-Applicaties" transform="translate(96 8820)">
+    <rect x="0" y="0" width="1920" height="1358" fill="#ffffff" stroke="#d5dee5" stroke-width="1"/>
+    <rect x="0" y="0" width="1920" height="10" fill="#1ab9e2"/>
+  </g>
+</g>
+
+<g id="Pagina-01-Cover" transform="translate(96 96)">
+  <g id="Cover-Zeshoekpatroon" opacity="0.07">
+    <polygon points="163.92,100 267.85,160 267.85,280 163.92,340 60,280 60,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="371.77,100 475.69,160 475.69,280 371.77,340 267.85,280 267.85,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="579.62,100 683.54,160 683.54,280 579.62,340 475.69,280 475.69,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="787.46,100 891.38,160 891.38,280 787.46,340 683.54,280 683.54,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="995.31,100 1099.23,160 1099.23,280 995.31,340 891.38,280 891.38,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1203.15,100 1307.08,160 1307.08,280 1203.15,340 1099.23,280 1099.23,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1411,100 1514.92,160 1514.92,280 1411,340 1307.08,280 1307.08,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1618.85,100 1722.77,160 1722.77,280 1618.85,340 1514.92,280 1514.92,160" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="267.85,280 371.77,340 371.77,460 267.85,520 163.92,460 163.92,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="475.69,280 579.62,340 579.62,460 475.69,520 371.77,460 371.77,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="683.54,280 787.46,340 787.46,460 683.54,520 579.62,460 579.62,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="891.38,280 995.31,340 995.31,460 891.38,520 787.46,460 787.46,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1099.23,280 1203.15,340 1203.15,460 1099.23,520 995.31,460 995.31,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1307.08,280 1411,340 1411,460 1307.08,520 1203.15,460 1203.15,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1514.92,280 1618.85,340 1618.85,460 1514.92,520 1411,460 1411,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1722.77,280 1826.69,340 1826.69,460 1722.77,520 1618.85,460 1618.85,340" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="163.92,460 267.85,520 267.85,640 163.92,700 60,640 60,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="371.77,460 475.69,520 475.69,640 371.77,700 267.85,640 267.85,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="579.62,460 683.54,520 683.54,640 579.62,700 475.69,640 475.69,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="787.46,460 891.38,520 891.38,640 787.46,700 683.54,640 683.54,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="995.31,460 1099.23,520 1099.23,640 995.31,700 891.38,640 891.38,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1203.15,460 1307.08,520 1307.08,640 1203.15,700 1099.23,640 1099.23,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1411,460 1514.92,520 1514.92,640 1411,700 1307.08,640 1307.08,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1618.85,460 1722.77,520 1722.77,640 1618.85,700 1514.92,640 1514.92,520" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="267.85,640 371.77,700 371.77,820 267.85,880 163.92,820 163.92,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="475.69,640 579.62,700 579.62,820 475.69,880 371.77,820 371.77,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="683.54,640 787.46,700 787.46,820 683.54,880 579.62,820 579.62,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="891.38,640 995.31,700 995.31,820 891.38,880 787.46,820 787.46,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1099.23,640 1203.15,700 1203.15,820 1099.23,880 995.31,820 995.31,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1307.08,640 1411,700 1411,820 1307.08,880 1203.15,820 1203.15,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1514.92,640 1618.85,700 1618.85,820 1514.92,880 1411,820 1411,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1722.77,640 1826.69,700 1826.69,820 1722.77,880 1618.85,820 1618.85,700" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="163.92,820 267.85,880 267.85,1000 163.92,1060 60,1000 60,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="371.77,820 475.69,880 475.69,1000 371.77,1060 267.85,1000 267.85,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="579.62,820 683.54,880 683.54,1000 579.62,1060 475.69,1000 475.69,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="787.46,820 891.38,880 891.38,1000 787.46,1060 683.54,1000 683.54,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="995.31,820 1099.23,880 1099.23,1000 995.31,1060 891.38,1000 891.38,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1203.15,820 1307.08,880 1307.08,1000 1203.15,1060 1099.23,1000 1099.23,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1411,820 1514.92,880 1514.92,1000 1411,1060 1307.08,1000 1307.08,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1618.85,820 1722.77,880 1722.77,1000 1618.85,1060 1514.92,1000 1514.92,880" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="267.85,1000 371.77,1060 371.77,1180 267.85,1240 163.92,1180 163.92,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="475.69,1000 579.62,1060 579.62,1180 475.69,1240 371.77,1180 371.77,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="683.54,1000 787.46,1060 787.46,1180 683.54,1240 579.62,1180 579.62,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="891.38,1000 995.31,1060 995.31,1180 891.38,1240 787.46,1180 787.46,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1099.23,1000 1203.15,1060 1203.15,1180 1099.23,1240 995.31,1180 995.31,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1307.08,1000 1411,1060 1411,1180 1307.08,1240 1203.15,1180 1203.15,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1514.92,1000 1618.85,1060 1618.85,1180 1514.92,1240 1411,1180 1411,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <polygon points="1722.77,1000 1826.69,1060 1826.69,1180 1722.77,1240 1618.85,1180 1618.85,1060" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  </g>
+  <g id="Cover-Mozaiek">
+    <polygon points="1340.1,350 1405.05,387.5 1405.05,462.5 1340.1,500 1275.14,462.5 1275.14,387.5" fill="#009670" opacity="0.95"/>
+    <polygon points="1470,350 1534.95,387.5 1534.95,462.5 1470,500 1405.05,462.5 1405.05,387.5" fill="#1b71a8" opacity="0.9"/>
+    <polygon points="1599.9,350 1664.86,387.5 1664.86,462.5 1599.9,500 1534.95,462.5 1534.95,387.5" fill="#e0951f" opacity="0.95"/>
+    <polygon points="1405.05,462.5 1470,500 1470,575 1405.05,612.5 1340.1,575 1340.1,500" fill="#1ab9e2" opacity="0.9"/>
+    <polygon points="1534.95,462.5 1599.9,500 1599.9,575 1534.95,612.5 1470,575 1470,500" fill="#c17d1c" opacity="0.9"/>
+    <polygon points="1340.1,575 1405.05,612.5 1405.05,687.5 1340.1,725 1275.14,687.5 1275.14,612.5" fill="#005aaf" opacity="0.92"/>
+    <polygon points="1470,575 1534.95,612.5 1534.95,687.5 1470,725 1405.05,687.5 1405.05,612.5" fill="#1ab9e2" opacity="0.95"/>
+    <polygon points="1599.9,575 1664.86,612.5 1664.86,687.5 1599.9,725 1534.95,687.5 1534.95,612.5" fill="#1b71a8" opacity="0.9"/>
+    <polygon points="1405.05,687.5 1470,725 1470,800 1405.05,837.5 1340.1,800 1340.1,725" fill="#1b71a8" opacity="0.88"/>
+    <polygon points="1534.95,687.5 1599.9,725 1599.9,800 1534.95,837.5 1470,800 1470,725" fill="#1ab9e2" opacity="0.92"/>
+    <polygon points="1470,800 1534.95,837.5 1534.95,912.5 1470,950 1405.05,912.5 1405.05,837.5" fill="#b61b50" opacity="0.95"/>
+  </g>
+  <g id="Cover-Logo-Kader">
+    <rect x="1140" y="320" width="660" height="660" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="10 8"/>
+    <text x="1470" y="1006" font-size="18" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.6">Ruimte voor Brand Visual / Logo</text>
+  </g>
+  <g id="Cover-Tekst">
+    <text x="120" y="540" font-size="18" font-weight="700" fill="#1ab9e2" letter-spacing="6.5">HUISSTIJLHANDBOEK</text>
+    <text x="120" y="700" font-size="132" font-weight="800" fill="#ffffff" letter-spacing="-3">BRANDBOOK</text>
+    <text x="120" y="786" font-size="58" font-weight="300" fill="#ffffff">Pure Minds<tspan fill="#1ab9e2" font-weight="700">.</tspan></text>
+    <text x="120" y="848" font-size="22" font-weight="600" fill="#ffffff" letter-spacing="1.5" opacity="0.55">marketing group</text>
+    <line x1="120" y1="902" x2="380" y2="902" stroke="#1ab9e2" stroke-width="4"/>
+    <text x="120" y="1258" font-size="20" fill="#ffffff" opacity="0.6">Versie 1.0   |   Opleverdatum: [Datum]</text>
+    <text x="1800" y="1258" font-size="20" font-weight="700" fill="#1ab9e2" text-anchor="end">pureminds.nl</text>
+  </g>
+</g>
+
+<g id="Pagina-02-Merkverhaal" transform="translate(96 1550)">
+  <g id="Kop-02-Merkverhaal">
+    <text x="120" y="152" font-size="46" font-weight="700" fill="#303030" letter-spacing="-0.8">1. Het Merkverhaal &amp; Kernwaarden</text>
+    <line x1="120" y1="188" x2="1800" y2="188" stroke="#303030" stroke-width="3"/>
+  </g>
+  <g id="Merk-Missie-Visie">
+    <text x="120" y="282" font-size="21" font-weight="700" fill="#303030">Onze Missie &amp; Visie</text>
+    <line x1="120" y1="336" x2="1060" y2="336" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="382" x2="1060" y2="382" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="428" x2="1060" y2="428" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="474" x2="1060" y2="474" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="520" x2="1060" y2="520" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="566" x2="1060" y2="566" stroke="#e1e7ec" stroke-width="1.5"/>
+  </g>
+  <g id="Merk-Tone-of-Voice">
+    <text x="120" y="672" font-size="21" font-weight="700" fill="#303030">Tone of Voice</text>
+    <line x1="120" y1="726" x2="1060" y2="726" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="772" x2="1060" y2="772" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="818" x2="1060" y2="818" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="120" y1="864" x2="1060" y2="864" stroke="#e1e7ec" stroke-width="1.5"/>
+  </g>
+  <g id="Merk-Sfeerbeeld">
+    <rect x="1140" y="250" width="660" height="460" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1470" y="486" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Sfeerbeeld / Teamfoto</text>
+  </g>
+  <g id="Merk-Merkbelofte">
+    <rect x="1140" y="756" width="660" height="138" fill="#f2fbfe"/>
+    <rect x="1140" y="756" width="5" height="138" fill="#1ab9e2"/>
+    <text x="1170" y="796" font-size="13" font-weight="700" fill="#1b71a8" letter-spacing="2.6">MERKBELOFTE</text>
+    <line x1="1170" y1="838" x2="1770" y2="838" stroke="#e1e7ec" stroke-width="1.5"/>
+    <line x1="1170" y1="874" x2="1770" y2="874" stroke="#e1e7ec" stroke-width="1.5"/>
+  </g>
+  <g id="Merk-Kernwaarden">
+    <text x="120" y="962" font-size="21" font-weight="700" fill="#303030">Kernwaarden</text>
+    <text x="1800" y="962" font-size="14" fill="#5c6670" text-anchor="end">Vier waarden: elk een woord plus een zin uitleg.</text>
+    <g id="Kernwaarde-01">
+      <rect x="120" y="996" width="396" height="232" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+      <rect x="120" y="996" width="5" height="232" fill="#1ab9e2"/>
+      <polygon points="172,1027 191.92,1038.5 191.92,1061.5 172,1073 152.08,1061.5 152.08,1038.5" fill="#1ab9e2"/>
+      <text x="172" y="1056" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">1</text>
+      <text x="208" y="1056" font-size="13" font-weight="700" fill="#5c6670" letter-spacing="2">KERNWAARDE 01</text>
+      <line x1="146" y1="1120" x2="490" y2="1120" stroke="#303030" stroke-width="2"/>
+      <line x1="146" y1="1164" x2="490" y2="1164" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="146" y1="1200" x2="490" y2="1200" stroke="#e1e7ec" stroke-width="1.5"/>
+    </g>
+    <g id="Kernwaarde-02">
+      <rect x="548" y="996" width="396" height="232" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+      <rect x="548" y="996" width="5" height="232" fill="#1b71a8"/>
+      <polygon points="600,1027 619.92,1038.5 619.92,1061.5 600,1073 580.08,1061.5 580.08,1038.5" fill="#1b71a8"/>
+      <text x="600" y="1056" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">2</text>
+      <text x="636" y="1056" font-size="13" font-weight="700" fill="#5c6670" letter-spacing="2">KERNWAARDE 02</text>
+      <line x1="574" y1="1120" x2="918" y2="1120" stroke="#303030" stroke-width="2"/>
+      <line x1="574" y1="1164" x2="918" y2="1164" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="574" y1="1200" x2="918" y2="1200" stroke="#e1e7ec" stroke-width="1.5"/>
+    </g>
+    <g id="Kernwaarde-03">
+      <rect x="976" y="996" width="396" height="232" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+      <rect x="976" y="996" width="5" height="232" fill="#009670"/>
+      <polygon points="1028,1027 1047.92,1038.5 1047.92,1061.5 1028,1073 1008.08,1061.5 1008.08,1038.5" fill="#009670"/>
+      <text x="1028" y="1056" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">3</text>
+      <text x="1064" y="1056" font-size="13" font-weight="700" fill="#5c6670" letter-spacing="2">KERNWAARDE 03</text>
+      <line x1="1002" y1="1120" x2="1346" y2="1120" stroke="#303030" stroke-width="2"/>
+      <line x1="1002" y1="1164" x2="1346" y2="1164" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="1002" y1="1200" x2="1346" y2="1200" stroke="#e1e7ec" stroke-width="1.5"/>
+    </g>
+    <g id="Kernwaarde-04">
+      <rect x="1404" y="996" width="396" height="232" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+      <rect x="1404" y="996" width="5" height="232" fill="#b61b50"/>
+      <polygon points="1456,1027 1475.92,1038.5 1475.92,1061.5 1456,1073 1436.08,1061.5 1436.08,1038.5" fill="#b61b50"/>
+      <text x="1456" y="1056" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">4</text>
+      <text x="1492" y="1056" font-size="13" font-weight="700" fill="#5c6670" letter-spacing="2">KERNWAARDE 04</text>
+      <line x1="1430" y1="1120" x2="1774" y2="1120" stroke="#303030" stroke-width="2"/>
+      <line x1="1430" y1="1164" x2="1774" y2="1164" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="1430" y1="1200" x2="1774" y2="1200" stroke="#e1e7ec" stroke-width="1.5"/>
+    </g>
+  </g>
+</g>
+
+<g id="Pagina-03-Logo" transform="translate(96 3004)">
+  <g id="Kop-03-Logo">
+    <text x="120" y="152" font-size="46" font-weight="700" fill="#303030" letter-spacing="-0.8">2. Logo &amp; Regels</text>
+    <line x1="120" y1="188" x2="1800" y2="188" stroke="#303030" stroke-width="3"/>
+  </g>
+  <g id="Logo-Varianten">
+    <text x="120" y="264" font-size="21" font-weight="700" fill="#303030">Primair logo</text>
+    <rect x="120" y="292" width="700" height="300" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="470" y="448" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Plaats hier het primaire logo</text>
+    <text x="860" y="264" font-size="21" font-weight="700" fill="#303030">Beeldmerk</text>
+    <rect x="860" y="292" width="340" height="300" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1030" y="448" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Beeldmerk</text>
+    <text x="1240" y="264" font-size="21" font-weight="700" fill="#303030">Op donkere ondergrond</text>
+    <rect x="1240" y="292" width="560" height="300" fill="#303030" stroke="#6b7883" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1520" y="448" font-size="17" font-weight="600" fill="#ffffff" text-anchor="middle">Logo in diapositief</text>
+  </g>
+  <g id="Logo-Clearspace">
+    <text x="120" y="712" font-size="21" font-weight="700" fill="#303030">Clear Space (Witruimte)</text>
+    <rect x="120" y="740" width="760" height="450" fill="#f7fafc" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <rect x="230" y="850" width="540" height="230" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="500" y="971" font-size="16" font-weight="600" fill="#5c6670" text-anchor="middle">Primair logo</text>
+    <path d="M230 740V1190" fill="none" stroke="#1ab9e2" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.85"/>
+    <path d="M770 740V1190" fill="none" stroke="#1ab9e2" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.85"/>
+    <path d="M120 850H880" fill="none" stroke="#1ab9e2" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.85"/>
+    <path d="M120 1080H880" fill="none" stroke="#1ab9e2" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.85"/>
+    <polygon points="175,948 189.72,956.5 189.72,973.5 175,982 160.28,973.5 160.28,956.5" fill="#1ab9e2"/>
+    <text x="175" y="971" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle">x</text>
+    <polygon points="825,948 839.72,956.5 839.72,973.5 825,982 810.28,973.5 810.28,956.5" fill="#1ab9e2"/>
+    <text x="825" y="971" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle">x</text>
+    <polygon points="500,778 514.72,786.5 514.72,803.5 500,812 485.28,803.5 485.28,786.5" fill="#1ab9e2"/>
+    <text x="500" y="801" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle">x</text>
+    <polygon points="500,1118 514.72,1126.5 514.72,1143.5 500,1152 485.28,1143.5 485.28,1126.5" fill="#1ab9e2"/>
+    <text x="500" y="1141" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle">x</text>
+    <text x="120" y="1232" font-size="15" fill="#5c6670">De vrije ruimte rondom het logo is minimaal x: de hoogte van een zeshoek uit het beeldmerk.</text>
+  </g>
+  <g id="Logo-Donts">
+    <text x="940" y="712" font-size="21" font-weight="700" fill="#303030">Don&#39;ts (Niet doen)</text>
+    <g id="Dont-01">
+      <rect x="940" y="740" width="420" height="210" fill="#f7fafc" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+      <polygon points="1150,787 1173.38,800.5 1173.38,827.5 1150,841 1126.62,827.5 1126.62,800.5" fill="#b61b50"/>
+      <path d="M1139 803l22 22M1161 803l-22 22" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+      <text x="1150" y="880" font-size="16" font-weight="700" fill="#303030" text-anchor="middle">Niet uitrekken of vervormen</text>
+      <text x="1150" y="910" font-size="13" fill="#5c6670" text-anchor="middle">Fout voorbeeld</text>
+    </g>
+    <g id="Dont-02">
+      <rect x="1380" y="740" width="420" height="210" fill="#f7fafc" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+      <polygon points="1590,787 1613.38,800.5 1613.38,827.5 1590,841 1566.62,827.5 1566.62,800.5" fill="#b61b50"/>
+      <path d="M1579 803l22 22M1601 803l-22 22" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+      <text x="1590" y="880" font-size="16" font-weight="700" fill="#303030" text-anchor="middle">Niet inkleuren of verlopen</text>
+      <text x="1590" y="910" font-size="13" fill="#5c6670" text-anchor="middle">Fout voorbeeld</text>
+    </g>
+    <g id="Dont-03">
+      <rect x="940" y="990" width="420" height="210" fill="#f7fafc" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+      <polygon points="1150,1037 1173.38,1050.5 1173.38,1077.5 1150,1091 1126.62,1077.5 1126.62,1050.5" fill="#b61b50"/>
+      <path d="M1139 1053l22 22M1161 1053l-22 22" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+      <text x="1150" y="1130" font-size="16" font-weight="700" fill="#303030" text-anchor="middle">Niet op een drukke foto</text>
+      <text x="1150" y="1160" font-size="13" fill="#5c6670" text-anchor="middle">Fout voorbeeld</text>
+    </g>
+    <g id="Dont-04">
+      <rect x="1380" y="990" width="420" height="210" fill="#f7fafc" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+      <polygon points="1590,1037 1613.38,1050.5 1613.38,1077.5 1590,1091 1566.62,1077.5 1566.62,1050.5" fill="#b61b50"/>
+      <path d="M1579 1053l22 22M1601 1053l-22 22" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+      <text x="1590" y="1130" font-size="16" font-weight="700" fill="#303030" text-anchor="middle">Geen schaduw of outline</text>
+      <text x="1590" y="1160" font-size="13" fill="#5c6670" text-anchor="middle">Fout voorbeeld</text>
+    </g>
+  </g>
+</g>
+
+<g id="Pagina-04-Kleurpalet" transform="translate(96 4458)">
+  <g id="Kop-04-Kleurpalet">
+    <text x="120" y="152" font-size="46" font-weight="700" fill="#303030" letter-spacing="-0.8">3. Kleurpalet</text>
+    <line x1="120" y1="188" x2="1800" y2="188" stroke="#303030" stroke-width="3"/>
+  </g>
+  <g id="Kleur-Primair">
+    <text x="120" y="264" font-size="21" font-weight="700" fill="#303030">Primaire Kleuren</text>
+    <text x="1800" y="264" font-size="14" fill="#5c6670" text-anchor="end">Verhouding 60 / 30 / 10  -  wit &amp; neutraal  /  cyaan  /  magenta</text>
+    <g id="Kleur-Primair-01">
+      <rect x="120" y="292" width="540" height="260" fill="#1ab9e2"/>
+      <text x="148" y="518" font-size="24" font-weight="700" fill="#303030">Pure Cyaan</text>
+      <text x="120" y="596" font-size="17" font-weight="700" fill="#303030">HEX #1AB9E2</text>
+      <text x="120" y="626" font-size="16" fill="#5c6670">RGB 26, 185, 226</text>
+      <text x="120" y="654" font-size="16" fill="#5c6670">CMYK 88, 18, 0, 11</text>
+      <text x="120" y="692" font-size="14" fill="#5c6670">Accenten, vlakken, lijnen en markeringen.</text>
+    </g>
+    <g id="Kleur-Primair-02">
+      <rect x="690" y="292" width="540" height="260" fill="#b61b50"/>
+      <text x="718" y="518" font-size="24" font-weight="700" fill="#ffffff">Pure Magenta</text>
+      <text x="690" y="596" font-size="17" font-weight="700" fill="#303030">HEX #B61B50</text>
+      <text x="690" y="626" font-size="16" fill="#5c6670">RGB 182, 27, 80</text>
+      <text x="690" y="654" font-size="16" fill="#5c6670">CMYK 0, 85, 56, 29</text>
+      <text x="690" y="692" font-size="14" fill="#5c6670">Uitsluitend voor de hoofdactie en nadruk.</text>
+    </g>
+    <g id="Kleur-Primair-03">
+      <rect x="1260" y="292" width="540" height="260" fill="#303030"/>
+      <text x="1288" y="518" font-size="24" font-weight="700" fill="#ffffff">Inkt</text>
+      <text x="1260" y="596" font-size="17" font-weight="700" fill="#303030">HEX #303030</text>
+      <text x="1260" y="626" font-size="16" fill="#5c6670">RGB 48, 48, 48</text>
+      <text x="1260" y="654" font-size="16" fill="#5c6670">CMYK 0, 0, 0, 81</text>
+      <text x="1260" y="692" font-size="14" fill="#5c6670">Lopende tekst, koppen en donkere vlakken.</text>
+    </g>
+  </g>
+  <g id="Kleur-Accent">
+    <text x="120" y="790" font-size="21" font-weight="700" fill="#303030">Secundaire / Accent Kleuren</text>
+    <g id="Kleur-Accent-01">
+      <rect x="120" y="818" width="396" height="190" fill="#1b71a8"/>
+      <text x="142" y="984" font-size="19" font-weight="700" fill="#ffffff">Blauw</text>
+      <text x="120" y="1046" font-size="15" font-weight="700" fill="#303030">HEX #1B71A8</text>
+      <text x="120" y="1072" font-size="14" fill="#5c6670">RGB 27, 113, 168</text>
+      <text x="120" y="1098" font-size="14" fill="#5c6670">CMYK 84, 33, 0, 34</text>
+    </g>
+    <g id="Kleur-Accent-02">
+      <rect x="548" y="818" width="396" height="190" fill="#005aaf"/>
+      <text x="570" y="984" font-size="19" font-weight="700" fill="#ffffff">Diep blauw</text>
+      <text x="548" y="1046" font-size="15" font-weight="700" fill="#303030">HEX #005AAF</text>
+      <text x="548" y="1072" font-size="14" fill="#5c6670">RGB 0, 90, 175</text>
+      <text x="548" y="1098" font-size="14" fill="#5c6670">CMYK 100, 49, 0, 31</text>
+    </g>
+    <g id="Kleur-Accent-03">
+      <rect x="976" y="818" width="396" height="190" fill="#009670"/>
+      <text x="998" y="984" font-size="19" font-weight="700" fill="#ffffff">Groen</text>
+      <text x="976" y="1046" font-size="15" font-weight="700" fill="#303030">HEX #009670</text>
+      <text x="976" y="1072" font-size="14" fill="#5c6670">RGB 0, 150, 112</text>
+      <text x="976" y="1098" font-size="14" fill="#5c6670">CMYK 100, 0, 25, 41</text>
+    </g>
+    <g id="Kleur-Accent-04">
+      <rect x="1404" y="818" width="396" height="190" fill="#e0951f"/>
+      <text x="1426" y="984" font-size="19" font-weight="700" fill="#ffffff">Oranje</text>
+      <text x="1404" y="1046" font-size="15" font-weight="700" fill="#303030">HEX #E0951F</text>
+      <text x="1404" y="1072" font-size="14" fill="#5c6670">RGB 224, 149, 31</text>
+      <text x="1404" y="1098" font-size="14" fill="#5c6670">CMYK 0, 33, 86, 12</text>
+    </g>
+  </g>
+  <g id="Kleur-Neutraal">
+    <text x="120" y="1156" font-size="21" font-weight="700" fill="#303030">Neutralen &amp; vlakken</text>
+    <rect x="120" y="1180" width="88" height="62" fill="#e8f7fc" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="222" y="1206" font-size="15" font-weight="700" fill="#303030">Tint</text>
+    <text x="222" y="1230" font-size="14" fill="#5c6670">#E8F7FC</text>
+    <rect x="456" y="1180" width="88" height="62" fill="#f2fbfe" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="558" y="1206" font-size="15" font-weight="700" fill="#303030">Soft</text>
+    <text x="558" y="1230" font-size="14" fill="#5c6670">#F2FBFE</text>
+    <rect x="792" y="1180" width="88" height="62" fill="#edf3f7" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="894" y="1206" font-size="15" font-weight="700" fill="#303030">Canvas</text>
+    <text x="894" y="1230" font-size="14" fill="#5c6670">#EDF3F7</text>
+    <rect x="1128" y="1180" width="88" height="62" fill="#e1e7ec" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="1230" y="1206" font-size="15" font-weight="700" fill="#303030">Lijn</text>
+    <text x="1230" y="1230" font-size="14" fill="#5c6670">#E1E7EC</text>
+    <rect x="1464" y="1180" width="88" height="62" fill="#5c6670" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="1566" y="1206" font-size="15" font-weight="700" fill="#303030">Muted</text>
+    <text x="1566" y="1230" font-size="14" fill="#5c6670">#5C6670</text>
+  </g>
+</g>
+
+<g id="Pagina-05-Typografie" transform="translate(96 5912)">
+  <g id="Kop-05-Typografie">
+    <text x="120" y="152" font-size="46" font-weight="700" fill="#303030" letter-spacing="-0.8">4. Typografie</text>
+    <line x1="120" y1="188" x2="1800" y2="188" stroke="#303030" stroke-width="3"/>
+  </g>
+  <g id="Typo-Lettertype">
+    <text x="120" y="406" font-size="150" font-weight="800" fill="#303030" letter-spacing="-4">Aa</text>
+    <text x="400" y="300" font-size="26" font-weight="700" fill="#303030">Primair lettertype: Open Sans</text>
+    <text x="400" y="332" font-size="15" fill="#5c6670">Google Fonts - gewichten 300 tot 800 - ook als webfont in alle digitale toepassingen.</text>
+    <text x="400" y="380" font-size="21" font-weight="700" fill="#303030" letter-spacing="2.5">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</text>
+    <text x="400" y="412" font-size="21" fill="#303030" letter-spacing="2.5">a b c d e f g h i j k l m n o p q r s t u v w x y z</text>
+    <text x="400" y="444" font-size="21" fill="#303030" letter-spacing="2.5">0 1 2 3 4 5 6 7 8 9 ! @ # $ % &amp; * ( ) &#8364; ? / -</text>
+  </g>
+  <g id="Typo-Gewichten">
+    <text x="120" y="530" font-size="21" font-weight="700" fill="#303030">Gewichten</text>
+    <line x1="120" y1="548" x2="1800" y2="548" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="618" font-size="46" font-weight="300" fill="#303030">Aa</text>
+    <text x="120" y="650" font-size="14" font-weight="700" fill="#5c6670">Light 300</text>
+    <text x="400" y="618" font-size="46" font-weight="400" fill="#303030">Aa</text>
+    <text x="400" y="650" font-size="14" font-weight="700" fill="#5c6670">Regular 400</text>
+    <text x="680" y="618" font-size="46" font-weight="500" fill="#303030">Aa</text>
+    <text x="680" y="650" font-size="14" font-weight="700" fill="#5c6670">Medium 500</text>
+    <text x="960" y="618" font-size="46" font-weight="600" fill="#303030">Aa</text>
+    <text x="960" y="650" font-size="14" font-weight="700" fill="#5c6670">SemiBold 600</text>
+    <text x="1240" y="618" font-size="46" font-weight="700" fill="#303030">Aa</text>
+    <text x="1240" y="650" font-size="14" font-weight="700" fill="#5c6670">Bold 700</text>
+    <text x="1520" y="618" font-size="46" font-weight="800" fill="#303030">Aa</text>
+    <text x="1520" y="650" font-size="14" font-weight="700" fill="#5c6670">ExtraBold 800</text>
+  </g>
+  <g id="Typo-Hierarchie">
+    <text x="120" y="748" font-size="21" font-weight="700" fill="#303030">Typografische Hi&#235;rarchie</text>
+    <line x1="120" y1="768" x2="1800" y2="768" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="838" font-size="52" font-weight="700" fill="#303030" letter-spacing="-1.2">Heading 1 (H1) - Voor grote titels</text>
+    <text x="1800" y="838" font-size="14" fill="#5c6670" text-anchor="end">Open Sans Bold - 52 / 58 - tracking -2%</text>
+    <text x="120" y="914" font-size="34" font-weight="700" fill="#303030" letter-spacing="-0.6">Heading 2 (H2) - Voor subtitels en secties</text>
+    <text x="1800" y="914" font-size="14" fill="#5c6670" text-anchor="end">Open Sans Bold - 34 / 42</text>
+    <text x="120" y="976" font-size="24" font-weight="700" fill="#303030">Heading 3 (H3) - Voor tussenkoppen</text>
+    <text x="1800" y="976" font-size="14" fill="#5c6670" text-anchor="end">Open Sans Bold - 24 / 32</text>
+    <text x="120" y="1038" font-size="18" fill="#303030">Body text: dit is een voorbeeld van de lopende tekst. Gebruik dit voor langere paragrafen.</text>
+    <text x="120" y="1069" font-size="18" fill="#303030">Zorg voor goede leesbaarheid en voldoende regelafstand (line-height 1,7).</text>
+    <text x="1800" y="1038" font-size="14" fill="#5c6670" text-anchor="end">Open Sans Regular - 18 / 31</text>
+    <text x="120" y="1118" font-size="15" fill="#5c6670">Small / bijschrift - voor hints, bronnen en metadata.</text>
+    <text x="1800" y="1118" font-size="14" fill="#5c6670" text-anchor="end">Open Sans Regular - 15 / 24 - #5C6670</text>
+    <text x="120" y="1162" font-size="13" font-weight="700" fill="#5c6670" letter-spacing="2.6">LABEL / OVERLINE - UPPERCASE</text>
+    <text x="1800" y="1162" font-size="14" fill="#5c6670" text-anchor="end">Open Sans Bold - 13 - tracking 0,1em</text>
+  </g>
+  <g id="Typo-Schrijfwijze">
+    <rect x="120" y="1192" width="1680" height="66" fill="#f2fbfe"/>
+    <rect x="120" y="1192" width="5" height="66" fill="#1ab9e2"/>
+    <text x="150" y="1232" font-size="15" fill="#303030"><tspan font-weight="700">Schrijfwijze - </tspan><tspan>knoppen en labels in kleine letters (&#8216;analyseer pagina&#8217;). Koppen w&#233;l met een hoofdletter.</tspan></text>
+  </g>
+</g>
+
+<g id="Pagina-06-Beeldtaal" transform="translate(96 7366)">
+  <g id="Kop-06-Beeldtaal">
+    <text x="120" y="152" font-size="46" font-weight="700" fill="#303030" letter-spacing="-0.8">5. Beeldtaal &amp; Iconografie</text>
+    <line x1="120" y1="188" x2="1800" y2="188" stroke="#303030" stroke-width="3"/>
+  </g>
+  <g id="Beeld-Moodboard">
+    <text x="120" y="264" font-size="21" font-weight="700" fill="#303030">Fotografie Stijl (Moodboard)</text>
+    <rect x="120" y="292" width="500" height="460" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="370" y="528" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Foto 1</text>
+    <rect x="650" y="292" width="440" height="460" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="870" y="528" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Foto 2</text>
+    <rect x="1120" y="292" width="680" height="215" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1460" y="405.5" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Foto 3 (Detail)</text>
+    <rect x="1120" y="537" width="680" height="215" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1460" y="650.5" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Foto 4 (Actie)</text>
+  </g>
+  <g id="Beeld-Kenmerken">
+    <polygon points="127,792 133.93,796 133.93,804 127,808 120.07,804 120.07,796" fill="#1ab9e2"/>
+    <text x="148" y="806" font-size="16" font-weight="600" fill="#303030">Natuurlijk licht, geen flits</text>
+    <polygon points="547,792 553.93,796 553.93,804 547,808 540.07,804 540.07,796" fill="#1ab9e2"/>
+    <text x="568" y="806" font-size="16" font-weight="600" fill="#303030">Mensen aan het werk</text>
+    <polygon points="967,792 973.93,796 973.93,804 967,808 960.07,804 960.07,796" fill="#1ab9e2"/>
+    <text x="988" y="806" font-size="16" font-weight="600" fill="#303030">Ruim kader, veel lucht</text>
+    <polygon points="1387,792 1393.93,796 1393.93,804 1387,808 1380.07,804 1380.07,796" fill="#1ab9e2"/>
+    <text x="1408" y="806" font-size="16" font-weight="600" fill="#303030">Cyaan-blauwe ondertoon</text>
+  </g>
+  <g id="Beeld-Iconografie">
+    <text x="120" y="886" font-size="21" font-weight="700" fill="#303030">Iconografie</text>
+    <polygon points="185,905 249.95,942.5 249.95,1017.5 185,1055 120.05,1017.5 120.05,942.5" fill="#f2fbfe" stroke="#1ab9e2" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="185" y="986" font-size="15" font-weight="600" fill="#5c6670" text-anchor="middle">Icoon</text>
+    <polygon points="353,905 417.95,942.5 417.95,1017.5 353,1055 288.05,1017.5 288.05,942.5" fill="#f2fbfe" stroke="#1ab9e2" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="353" y="986" font-size="15" font-weight="600" fill="#5c6670" text-anchor="middle">Icoon</text>
+    <polygon points="521,905 585.95,942.5 585.95,1017.5 521,1055 456.05,1017.5 456.05,942.5" fill="#f2fbfe" stroke="#1ab9e2" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="521" y="986" font-size="15" font-weight="600" fill="#5c6670" text-anchor="middle">Icoon</text>
+    <polygon points="689,905 753.95,942.5 753.95,1017.5 689,1055 624.05,1017.5 624.05,942.5" fill="#f2fbfe" stroke="#1ab9e2" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="689" y="986" font-size="15" font-weight="600" fill="#5c6670" text-anchor="middle">Icoon</text>
+    <polygon points="857,905 921.95,942.5 921.95,1017.5 857,1055 792.05,1017.5 792.05,942.5" fill="#f2fbfe" stroke="#1ab9e2" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="857" y="986" font-size="15" font-weight="600" fill="#5c6670" text-anchor="middle">Icoon</text>
+    <text x="120" y="1086" font-size="15" fill="#5c6670">Lijniconen - 2 px lijndikte, rechte uiteinden, cyaan #1AB9E2 op wit.</text>
+  </g>
+  <g id="Beeld-Vormtaal">
+    <text x="1120" y="886" font-size="21" font-weight="700" fill="#303030">Vormtaal: de zeshoek</text>
+    <rect x="1120" y="912" width="680" height="232" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+    <polygon points="1167.63,922 1215.26,949.5 1215.26,1004.5 1167.63,1032 1120,1004.5 1120,949.5" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1262.89,922 1310.53,949.5 1310.53,1004.5 1262.89,1032 1215.26,1004.5 1215.26,949.5" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1358.16,922 1405.79,949.5 1405.79,1004.5 1358.16,1032 1310.53,1004.5 1310.53,949.5" fill="#e0951f" opacity="0.9"/>
+    <polygon points="1453.42,922 1501.05,949.5 1501.05,1004.5 1453.42,1032 1405.79,1004.5 1405.79,949.5" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1548.68,922 1596.31,949.5 1596.31,1004.5 1548.68,1032 1501.05,1004.5 1501.05,949.5" fill="#b61b50" opacity="0.9"/>
+    <polygon points="1643.95,922 1691.58,949.5 1691.58,1004.5 1643.95,1032 1596.31,1004.5 1596.31,949.5" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1739.21,922 1786.84,949.5 1786.84,1004.5 1739.21,1032 1691.58,1004.5 1691.58,949.5" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1215.26,1004.5 1262.89,1032 1262.89,1087 1215.26,1114.5 1167.63,1087 1167.63,1032" fill="#009670" opacity="0.9"/>
+    <polygon points="1310.53,1004.5 1358.16,1032 1358.16,1087 1310.53,1114.5 1262.89,1087 1262.89,1032" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1405.79,1004.5 1453.42,1032 1453.42,1087 1405.79,1114.5 1358.16,1087 1358.16,1032" fill="#1ab9e2" opacity="0.9"/>
+    <polygon points="1501.05,1004.5 1548.68,1032 1548.68,1087 1501.05,1114.5 1453.42,1087 1453.42,1032" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1596.31,1004.5 1643.95,1032 1643.95,1087 1596.31,1114.5 1548.68,1087 1548.68,1032" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="1691.58,1004.5 1739.21,1032 1739.21,1087 1691.58,1114.5 1643.95,1087 1643.95,1032" fill="none" stroke="#90a4b4" stroke-width="1.5" opacity="0.5"/>
+    <text x="1120" y="1186" font-size="14" fill="#5c6670">Het beeldmerk is opgebouwd uit zeshoeken. Gebruik die zeshoek voor badges,</text>
+    <text x="1120" y="1210" font-size="14" fill="#5c6670">bullets, iconframes en als lijnpatroon op de achtergrond.</text>
+  </g>
+  <g id="Beeld-Regels">
+    <rect x="120" y="1114" width="970" height="144" fill="#f2fbfe"/>
+    <rect x="120" y="1114" width="5" height="144" fill="#1ab9e2"/>
+    <polygon points="157,1141 163.06,1144.5 163.06,1151.5 157,1155 150.94,1151.5 150.94,1144.5" fill="#1ab9e2"/>
+    <text x="176" y="1154" font-size="15" fill="#303030">Echte situaties bij echte klanten, geen stockclich&#233;s.</text>
+    <polygon points="157,1179 163.06,1182.5 163.06,1189.5 157,1193 150.94,1189.5 150.94,1182.5" fill="#1ab9e2"/>
+    <text x="176" y="1192" font-size="15" fill="#303030">Kleurcorrectie richting cyaan; magenta uitsluitend als accent.</text>
+    <polygon points="157,1217 163.06,1220.5 163.06,1227.5 157,1231 150.94,1227.5 150.94,1220.5" fill="#1ab9e2"/>
+    <text x="176" y="1230" font-size="15" fill="#303030">Laat ruimte boven of naast het onderwerp voor tekst.</text>
+  </g>
+</g>
+
+<g id="Pagina-07-Applicaties" transform="translate(96 8820)">
+  <g id="Kop-07-Applicaties">
+    <text x="120" y="152" font-size="46" font-weight="700" fill="#303030" letter-spacing="-0.8">6. Brand Applications</text>
+    <line x1="120" y1="188" x2="1800" y2="188" stroke="#303030" stroke-width="3"/>
+  </g>
+  <g id="App-Kantoor">
+    <text x="120" y="264" font-size="21" font-weight="700" fill="#303030">Kantoorbenodigdheden</text>
+    <g id="App-Briefpapier">
+      <rect x="120" y="292" width="420" height="594" fill="#ffffff" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+      <rect x="120" y="292" width="420" height="8" fill="#1ab9e2"/>
+      <rect x="152" y="330" width="150" height="54" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+      <text x="227" y="362" font-size="13" fill="#5c6670" text-anchor="middle">Logo</text>
+      <line x1="152" y1="442" x2="508" y2="442" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="466" x2="508" y2="466" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="490" x2="508" y2="490" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="514" x2="508" y2="514" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="538" x2="508" y2="538" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="578" x2="508" y2="578" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="602" x2="508" y2="602" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="626" x2="508" y2="626" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="650" x2="508" y2="650" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="674" x2="508" y2="674" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="698" x2="508" y2="698" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="152" y1="812" x2="508" y2="812" stroke="#1ab9e2" stroke-width="2"/>
+      <text x="152" y="838" font-size="11" font-weight="700" fill="#5c6670">Pure Minds - marketing group</text>
+      <text x="152" y="856" font-size="11" fill="#5c6670">Adres - postcode plaats - pureminds.nl</text>
+      <text x="330" y="916" font-size="14" font-weight="600" fill="#5c6670" text-anchor="middle">Briefpapier / Factuur (A4)</text>
+    </g>
+    <g id="App-Visitekaartje-Voor">
+      <rect x="580" y="292" width="440" height="285" fill="#303030"/>
+      <rect x="580" y="292" width="440" height="8" fill="#1ab9e2"/>
+      <rect x="620" y="396" width="200" height="72" fill="#ffffff" fill-opacity="0.06" stroke="#6b7883" stroke-width="1.5" stroke-dasharray="7 6"/>
+      <text x="720" y="438" font-size="13" fill="#ffffff" text-anchor="middle" opacity="0.65">Logo (diapositief)</text>
+      <polygon points="962,497 981.92,508.5 981.92,531.5 962,543 942.08,531.5 942.08,508.5" fill="#1ab9e2"/>
+      <text x="800" y="607" font-size="14" font-weight="600" fill="#5c6670" text-anchor="middle">Visitekaartje (voor)</text>
+    </g>
+    <g id="App-Visitekaartje-Achter">
+      <rect x="580" y="646" width="440" height="285" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+      <rect x="580" y="646" width="6" height="285" fill="#b61b50"/>
+      <text x="620" y="718" font-size="15" font-weight="700" fill="#303030">Naam Achternaam</text>
+      <text x="620" y="742" font-size="12" font-weight="700" fill="#5c6670" letter-spacing="1.6">Functie</text>
+      <line x1="620" y1="768" x2="700" y2="768" stroke="#1ab9e2" stroke-width="3"/>
+      <line x1="620" y1="800" x2="900" y2="800" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="620" y1="830" x2="900" y2="830" stroke="#e1e7ec" stroke-width="1.5"/>
+      <line x1="620" y1="860" x2="900" y2="860" stroke="#e1e7ec" stroke-width="1.5"/>
+      <polygon points="960,863 974.72,871.5 974.72,888.5 960,897 945.28,888.5 945.28,871.5" fill="#1ab9e2"/>
+      <text x="800" y="961" font-size="14" font-weight="600" fill="#5c6670" text-anchor="middle">Visitekaartje (achter)</text>
+    </g>
+    <g id="App-Email">
+      <rect x="120" y="1000" width="900" height="150" fill="#ffffff" stroke="#e1e7ec" stroke-width="1.5"/>
+      <rect x="152" y="1030" width="130" height="48" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+      <text x="217" y="1060" font-size="13" fill="#5c6670" text-anchor="middle">Logo</text>
+      <line x1="312" y1="1026" x2="312" y2="1124" stroke="#e1e7ec" stroke-width="2"/>
+      <text x="340" y="1042" font-size="15" font-weight="700" fill="#303030">Naam Achternaam</text>
+      <text x="340" y="1066" font-size="13" fill="#5c6670">Functie - Pure Minds marketing group</text>
+      <text x="340" y="1090" font-size="13" fill="#5c6670">T 0000 000 000 - pureminds.nl</text>
+      <rect x="340" y="1106" width="60" height="4" fill="#1ab9e2"/>
+      <text x="570" y="1180" font-size="14" font-weight="600" fill="#5c6670" text-anchor="middle">E-mailhandtekening</text>
+    </g>
+  </g>
+  <g id="App-Digitaal">
+    <text x="1080" y="264" font-size="21" font-weight="700" fill="#303030">Social Media &amp; Digitaal</text>
+    <rect x="1080" y="292" width="340" height="340" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1250" y="468" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Instagram Post (1:1)</text>
+    <rect x="1460" y="292" width="200" height="356" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1560" y="476" font-size="14" font-weight="600" fill="#5c6670" text-anchor="middle">Insta Story (9:16)</text>
+    <polygon points="1740,298 1797.16,331 1797.16,397 1740,430 1682.84,397 1682.84,331" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1740" y="370" font-size="14" font-weight="600" fill="#5c6670" text-anchor="middle">Avatar</text>
+    <text x="1740" y="452" font-size="14" font-weight="600" fill="#5c6670" text-anchor="middle">Profielfoto (1:1)</text>
+    <rect x="1080" y="740" width="720" height="405" fill="#edf3f7" stroke="#b5c2cb" stroke-width="1.5" stroke-dasharray="9 7"/>
+    <text x="1440" y="948.5" font-size="17" font-weight="600" fill="#5c6670" text-anchor="middle">Presentatie Template (16:9)</text>
+  </g>
+</g>
+
+<g id="Paginavoet">
+  <g id="Voet-02-Merkverhaal" transform="translate(96 1550)">
+    <line x1="120" y1="1300" x2="1800" y2="1300" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="1330" font-size="14" fill="#5c6670">Pure Minds - Brandbook v1.0</text>
+    <text x="1800" y="1330" font-size="14" font-weight="700" fill="#5c6670" text-anchor="end">02</text>
+  </g>
+  <g id="Voet-03-Logo" transform="translate(96 3004)">
+    <line x1="120" y1="1300" x2="1800" y2="1300" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="1330" font-size="14" fill="#5c6670">Pure Minds - Brandbook v1.0</text>
+    <text x="1800" y="1330" font-size="14" font-weight="700" fill="#5c6670" text-anchor="end">03</text>
+  </g>
+  <g id="Voet-04-Kleurpalet" transform="translate(96 4458)">
+    <line x1="120" y1="1300" x2="1800" y2="1300" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="1330" font-size="14" fill="#5c6670">Pure Minds - Brandbook v1.0</text>
+    <text x="1800" y="1330" font-size="14" font-weight="700" fill="#5c6670" text-anchor="end">04</text>
+  </g>
+  <g id="Voet-05-Typografie" transform="translate(96 5912)">
+    <line x1="120" y1="1300" x2="1800" y2="1300" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="1330" font-size="14" fill="#5c6670">Pure Minds - Brandbook v1.0</text>
+    <text x="1800" y="1330" font-size="14" font-weight="700" fill="#5c6670" text-anchor="end">05</text>
+  </g>
+  <g id="Voet-06-Beeldtaal" transform="translate(96 7366)">
+    <line x1="120" y1="1300" x2="1800" y2="1300" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="1330" font-size="14" fill="#5c6670">Pure Minds - Brandbook v1.0</text>
+    <text x="1800" y="1330" font-size="14" font-weight="700" fill="#5c6670" text-anchor="end">06</text>
+  </g>
+  <g id="Voet-07-Applicaties" transform="translate(96 8820)">
+    <line x1="120" y1="1300" x2="1800" y2="1300" stroke="#e1e7ec" stroke-width="1.5"/>
+    <text x="120" y="1330" font-size="14" fill="#5c6670">Pure Minds - Brandbook v1.0</text>
+    <text x="1800" y="1330" font-size="14" font-weight="700" fill="#5c6670" text-anchor="end">07</text>
+  </g>
+</g>
+</svg>

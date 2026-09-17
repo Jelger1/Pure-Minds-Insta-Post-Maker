@@ -1,0 +1,15 @@
+{
+  "name": "pure-minds-post-maker",
+  "version": "1.0.0",
+  "description": "Pure Minds Post Maker: Instagram- en LinkedIn-posts in de huisstijl (HTML5 Canvas)",
+  "private": true,
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "logo": "node scripts/build-logo-data.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {}
+}
